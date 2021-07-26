@@ -25,16 +25,32 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-brightgreen)](https://www.facebook.com/promitbasakjoy)
 
 ### I know
-```
-{
-  "language": ["Python", "C++/C", "MATLAB", "R"],
-  "framework/library": {
-    "ML": ["Tensorflow", "Keras", "Pytorch"]
-    "backend": [ "django"],
-    "frontend": ["HTML", "CSS"],
-  },
-  "database":  ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Firebase Realtime/Firestore"],
-  "server/deployment": ["AWS"],
-  "tools": ["Git", "VS Code", "Codeblocks", "Jupyter notebook"]
-}
-```
+
+- Language
+  - Python
+  - C
+  - C++
+  - MATLAB
+  - R 
+- Framework/library
+  - ML
+    - Tensorflow
+    - Keras
+    - Pytorch
+  - Backend
+    - django
+  - Frontend
+    - HTML
+    - CSS
+    - Bootstrap
+- Database
+    - MySQL
+    - SQLite
+    - 
+- Deployment
+    - AWS
+- Tools
+  - Git
+  - VS Code
+  - Codeblocks
+  - Jupyter
