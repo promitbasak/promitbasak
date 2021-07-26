@@ -27,30 +27,17 @@ Here are some ideas to get you started:
 ### I know
 
 - Language
-  - Python
-  - C
-  - C++
-  - MATLAB
-  - R 
+  - Python, C, C++, MATLAB, R
 - Framework/library
   - ML
-    - Tensorflow
-    - Keras
-    - Pytorch
+    - Tensorflow, Keras, Pytorch
   - Backend
     - django
   - Frontend
-    - HTML
-    - CSS
-    - Bootstrap
+    - HTML, CSS, Bootstrap
 - Database
-    - MySQL
-    - SQLite
-    - 
+    - MySQL, SQLite
 - Deployment
     - AWS
 - Tools
-  - Git
-  - VS Code
-  - Codeblocks
-  - Jupyter
+  - Git, VS Code, Codeblocks, Jupyter
