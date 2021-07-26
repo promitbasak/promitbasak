@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=promitbasak&&show_icons=true&theme=tokyonight&count_private=true" alt="Rahat's Github Stats"/>](https://github.com/promitbasak)
 
 <!--
 **promitbasak/promitbasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### I'm **Promit Basak**, currently experimenting with machine learning models and algorithms.
+
+
+### Find me here
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/promitbasak)
+[![Facebook](https://img.shields.io/badge/Facebook-brightgreen)](https://www.facebook.com/promitbasakjoy)
+
+### I know
+```
+{
+  "language": ["Python", "C++/C", "MATLAB", "R"],
+  "framework/library": {
+    "ML": ["Tensorflow", "Keras", "Pytorch"]
+    "backend": [ "django"],
+    "frontend": ["HTML", "CSS"],
+  },
+  "database":  ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Firebase Realtime/Firestore"],
+  "server/deployment": ["AWS"],
+  "tools": ["Git", "VS Code", "Codeblocks", "Jupyter notebook"]
+}
+```
