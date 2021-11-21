@@ -1,6 +1,6 @@
 ### Hi 👋
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=promitbasak&&show_icons=true&theme=tokyonight&count_private=true" alt="Rahat's Github Stats"/>](https://github.com/promitbasak)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=promitbasak&&show_icons=true&theme=tokyonight&count_private=true" alt="Promit's Github Stats"/>](https://github.com/promitbasak)
 
 <!--
 **promitbasak/promitbasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +41,8 @@ Here are some ideas to get you started:
     - AWS
 - Tools
   - Git, VS Code, Codeblocks, Jupyter
+
+
+### I write
+
+[<img height="400px" width="100%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=promit" alt="Skill Chart"/>](https://github.com/promitbasak)
