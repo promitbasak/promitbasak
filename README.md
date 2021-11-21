@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 ### I write
 
-[<img height="400px" width="100%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=promit" alt="Skill Chart"/>](https://github.com/promitbasak)
+[<img height="400px" width="100%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=promitbasak" alt="Skill Chart"/>](https://github.com/promitbasak)
